@@ -1,5 +1,5 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# 📊 Case Study: King County Housing Market Anomaly Detection & Arbitrage
+# 📊 King County Housing Market: Predictive Feature Modeling & Real Estate Arbitrage
 
 An academic-grade Exploratory Data Analysis (EDA) framework built on **21,500+ historical property records** to identify structural, geospatial, and seasonal pricing anomalies in King County, Washington. This project rejects traditional real estate guesswork, utilizing structured variable-interaction modeling ($Q \rightarrow Q$, $C \rightarrow Q$, and Multivariate analysis) to design a repeatable, data-backed capital deployment roadmap.
 
@@ -34,8 +34,6 @@ pip freeze > requirements.txt
 ## In Case of Failure
 If you fail to do the setup by yourself, then please revisit the previous repositories where you have done the setup and follow those steps.
 
-
-# King County Housing Market: Predictive Feature Modeling & Real Estate Arbitrage
 
 
 ## 🎯 Project Overview & Objective
